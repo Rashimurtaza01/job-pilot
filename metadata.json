@@ -1,0 +1,6 @@
+{
+  "name": "JobPilot Intelligence",
+  "description": "Global job research, recruiter intelligence, company analytics, and verifiable opportunity reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
